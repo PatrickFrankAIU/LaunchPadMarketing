@@ -5,5 +5,5 @@ Web Marketing-oriented project for students in ITWEB 210, 2403A Term.
 Participants:
 - 
 
-This site is hosted on GitHub Pages. 
-
+This site is hosted on GitHub Pages: 
+https://patrickfrankaiu.github.io/LaunchPadMarketing/
